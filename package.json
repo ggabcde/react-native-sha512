@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "flow": "flow; test $? -eq 0 -o $? -eq 2"
   },
+  "homepage": "https://github.com/ggabcde/react-native-sha512",
   "repository": {
     "type": "git",
     "url": "git@github.com:totvs-tfs/react-native-sha512.git"
